@@ -63,4 +63,5 @@ if __name__ == "__main__":
     t.start()
     
     # බොට්ව රන් කරනවා ඔයාගේ ටෝකන් එකෙන්
+
     bot.run('MTQ4MDk4MzI4NjI0NjI3NzM0NA.Ggazpn.HRkOHauT_Ht_uLg8190J0VI4itxtEXcS3sy21U')
